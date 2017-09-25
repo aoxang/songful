@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="host">
+    <serverData>
+      <paths name="host">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/host" local="$PROJECT_DIR$/../../host/host" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="servicemgr">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/servicemgr" local="$PROJECT_DIR$/../../servicemgr2.0/servicemgr" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="servicemgrclient">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/servicemgrclient" local="$PROJECT_DIR$/../../python-servicemgrclient/servicemgrclient" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="workorder">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workorder" local="$PROJECT_DIR$/../../workorder/workorder" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="workorderclient">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workorderclient" local="$PROJECT_DIR$/../../python-workorderclient/workorderclient" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

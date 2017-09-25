@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../AscenCloud3.0_svn/openstack-newton/keystone" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../AscenCloud3.0_svn/openstack-newton/keystoneauth1" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../Ascencloud_CI_test" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../SSP_V1.1_windows/hermes" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../ascenmetis" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../cis_svn" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../host" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../servicemgr_svn" vcs="svn" />
+  </component>
+</project>

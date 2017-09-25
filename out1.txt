@@ -1,0 +1,96 @@
+abrt-ccpp.service   loaded active exited   Install ABRT coredump hook
+abrt-oops.service   loaded active running   ABRT kernel log watcher
+abrtd.service   loaded active running   ABRT Automated Bug Reporting Tool
+ascencloud-autoscaling-api.service   loaded active running   Ascencloud autoscaling API Service
+ascencloud-cis-api.service   loaded active running   Ascencloud cis API Service
+ascencloud-cis-conductor.service   loaded active running   Ascencloud cis conductor Service
+ascencloud-operatelog-api.service   loaded active running   Ascencloud operatelog API Service
+ascencloud-servicemgr-agent.service   loaded active running   Ascencloud servicemgr API Service
+ascencloud-servicemgr-api.service   loaded active running   Ascencloud servicemgr API Service
+ascencloud-tags-api.service   loaded active running   Ascencloud tags API Service
+ascencloud-tags-conductor.service   loaded active running   Ascencloud tags conductor Service
+ascencloud-timer-agent.service   loaded active running   Ascencloud timer API Service
+ascencloud-timer-api.service   loaded active running   Ascencloud timer API Service
+ascencloud-timer-conductor.service   loaded active running   Ascencloud timer conductor Service
+atd.service   loaded active running   Job spooling tools
+auditd.service   loaded active running   Security Auditing Service
+chronyd.service   loaded active running   NTP client/server
+createnamespace.service   loaded active exited   Create network Namespace for haproxy
+crond.service   loaded active running   Command Scheduler
+dbus.service   loaded active running   D-Bus System Message Bus
+epmd@0.0.0.0.service   loaded active running   Erlang Port Mapper Daemon
+getty@tty1.service   loaded active running   Getty on tty1
+glusterd.service   loaded active running   GlusterFS, a clustered file-system server
+haproxy.service   loaded failed failed   HAProxy Load Balancer
+httpd.service   loaded active running   The Apache HTTP Server
+ipsec.service   loaded active running   Internet Key Exchange (IKE) Protocol Daemon for IPsec
+iptables.service   loaded active exited   IPv4 firewall with iptables
+irqbalance.service   loaded active running   irqbalance daemon
+kdump.service   loaded active exited   Crash recovery kernel arming
+kmod-static-nodes.service   loaded active exited   Create list of required static device nodes for the current kernel
+libstoragemgmt.service   loaded active running   libstoragemgmt plug-in server daemon
+libvirtd.service   loaded active running   Virtualization daemon
+lvm2-lvmetad.service   loaded active running   LVM2 metadata daemon
+lvm2-monitor.service   loaded active exited   Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling
+lvm2-pvscan@8:17.service   loaded active exited   LVM2 PV scan on device 8:17
+lvm2-pvscan@8:2.service   loaded active exited   LVM2 PV scan on device 8:2
+mariadb.service   loaded active running   MariaDB 10.1 database server
+memcached.service   loaded active running   memcached daemon
+network.service   loaded active exited   LSB: Bring up/down networking
+neutron-dhcp-agent.service   loaded active running   OpenStack Neutron DHCP Agent
+neutron-l3-agent.service   loaded active running   OpenStack Neutron Layer 3 Agent
+neutron-lbaasv2-agent.service   loaded active running   OpenStack Neutron Load Balancing as a Service (API v2.x) Agent
+neutron-metadata-agent.service   loaded active running   OpenStack Neutron Metadata Agent
+neutron-metering-agent.service   loaded active running   OpenStack Neutron Metering Agent
+neutron-openvswitch-agent.service   loaded active running   OpenStack Neutron Open vSwitch Agent
+neutron-server.service   loaded active running   OpenStack Neutron Server
+neutron-vpn-agent.service   loaded active running   OpenStack Neutron VPN as a Service Agent
+openstack-ceilometer-notification.service   loaded active running   OpenStack ceilometer notification agent
+openstack-glance-api.service   loaded active running   OpenStack Image Service (code-named Glance) API server
+openstack-glance-registry.service   loaded active running   OpenStack Image Service (code-named Glance) Registry server
+openstack-nova-api.service   loaded active running   OpenStack Nova API Server
+openstack-nova-cert.service   loaded active running   OpenStack Nova Cert Server
+openstack-nova-compute.service   loaded active running   OpenStack Nova Compute Server
+openstack-nova-conductor.service   loaded active running   OpenStack Nova Conductor Server
+openstack-nova-console.service   loaded active running   OpenStack Nova Console Proxy Server
+openstack-nova-consoleauth.service   loaded active running   OpenStack Nova VNC console auth Server
+openstack-nova-novncproxy.service   loaded active running   OpenStack Nova NoVNC Proxy Server
+openstack-nova-scheduler.service   loaded active running   OpenStack Nova Scheduler Server
+openstack-nova-spicehtml5proxy.service   loaded active running   OpenStack Nova Spice HTML5 Proxy Server
+openstack-nova-xvpvncproxy.service   loaded active running   OpenStack Nova XVP VncProxy Server
+openvswitch-nonetwork.service   loaded active exited   Open vSwitch Internal Unit
+openvswitch.service   loaded active exited   Open vSwitch
+polkit.service   loaded active running   Authorization Manager
+postfix.service   loaded active running   Postfix Mail Transport Agent
+rabbitmq-server.service   loaded active running   RabbitMQ broker
+rhel-dmesg.service   loaded active exited   Dump dmesg to /var/log/dmesg
+rhel-import-state.service   loaded active exited   Import network configuration from initramfs
+rhel-readonly.service   loaded active exited   Configure read-only root support
+rngd.service   loaded failed failed   Hardware RNG Entropy Gatherer Daemon
+rpc-statd.service   loaded active running   NFS status monitor for NFSv2/3 locking.
+rpcbind.service   loaded active running   RPC bind service
+rsyslog.service   loaded active running   System Logging Service
+smartd.service   loaded active running   Self Monitoring and Reporting Technology (SMART) Daemon
+sshd.service   loaded active running   OpenSSH server daemon
+sysstat.service   loaded active exited   Resets System Activity Logs
+systemd-fsck-root.service   loaded active exited   File System Check on Root Device
+systemd-journal-flush.service   loaded active exited   Flush Journal to Persistent Storage
+systemd-journald.service   loaded active running   Journal Service
+systemd-logind.service   loaded active running   Login Service
+systemd-random-seed.service   loaded active exited   Load/Save Random Seed
+systemd-readahead-collect.service   loaded active exited   Collect Read-Ahead Data
+systemd-readahead-replay.service   loaded active exited   Replay Read-Ahead Data
+systemd-remount-fs.service   loaded active exited   Remount Root and Kernel File Systems
+systemd-sysctl.service   loaded active exited   Apply Kernel Variables
+systemd-tmpfiles-setup-dev.service   loaded active exited   Create Static Device Nodes in /dev
+systemd-tmpfiles-setup.service   loaded active exited   Create Volatile Files and Directories
+systemd-udev-settle.service   loaded active exited   udev Wait for Complete Device Initialization
+systemd-udev-trigger.service   loaded active exited   udev Coldplug all Devices
+systemd-udevd.service   loaded active running   udev Kernel Device Manager
+systemd-update-utmp.service   loaded active exited   Update UTMP about System Boot/Shutdown
+systemd-user-sessions.service   loaded active exited   Permit User Sessions
+systemd-vconsole-setup.service   loaded active exited   Setup Virtual Console
+tuned.service   loaded active running   Dynamic System Tuning Daemon
+virtlockd.service   loaded active running   Virtual machine lock manager
+vsftpd.service   loaded active running   Vsftpd ftp daemon
+xinetd.service   loaded active running   Xinetd A Powerful Replacement For Inetd

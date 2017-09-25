@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="servicemgr2.0" />
+    <orderEntry type="module" module-name="deploy" />
+    <orderEntry type="module" module-name="python-servicemgrclient" />
+    <orderEntry type="module" module-name="Ascencloud_CI_test" />
+    <orderEntry type="module" module-name="ascenmetis" />
+    <orderEntry type="module" module-name="nova" />
+    <orderEntry type="module" module-name="python-novaclient" />
+    <orderEntry type="module" module-name="horizon" />
+    <orderEntry type="module" module-name="host" />
+    <orderEntry type="module" module-name="python-hostclient" />
+    <orderEntry type="module" module-name="keystone" />
+    <orderEntry type="module" module-name="magnum-master" />
+    <orderEntry type="module" module-name="keystoneauth1" />
+  </component>
+</module>

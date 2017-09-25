@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Ascencloud_CI_test/.idea/Ascencloud_CI_test.iml" filepath="$PROJECT_DIR$/../../Ascencloud_CI_test/.idea/Ascencloud_CI_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ascenmetis/.idea/ascenmetis.iml" filepath="$PROJECT_DIR$/../../ascenmetis/.idea/ascenmetis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../deploy/.idea/deploy.iml" filepath="$PROJECT_DIR$/../../deploy/.idea/deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../horizon/.idea/horizon.iml" filepath="$PROJECT_DIR$/../../horizon/.idea/horizon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../host/.idea/host.iml" filepath="$PROJECT_DIR$/../../host/.idea/host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AscenCloud3.0_svn/openstack-newton/keystone/.idea/keystone.iml" filepath="$PROJECT_DIR$/../../AscenCloud3.0_svn/openstack-newton/keystone/.idea/keystone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AscenCloud3.0_svn/openstack-newton/keystoneauth1/.idea/keystoneauth1.iml" filepath="$PROJECT_DIR$/../../AscenCloud3.0_svn/openstack-newton/keystoneauth1/.idea/keystoneauth1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lisong.iml" filepath="$PROJECT_DIR$/.idea/lisong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../magnum-master/.idea/magnum-master.iml" filepath="$PROJECT_DIR$/../../magnum-master/.idea/magnum-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../nova/.idea/nova.iml" filepath="$PROJECT_DIR$/../../nova/.idea/nova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python-hostclient/.idea/python-hostclient.iml" filepath="$PROJECT_DIR$/../../python-hostclient/.idea/python-hostclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python-novaclient/.idea/python-novaclient.iml" filepath="$PROJECT_DIR$/../../python-novaclient/.idea/python-novaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python-servicemgrclient/.idea/python-servicemgrclient.iml" filepath="$PROJECT_DIR$/../../python-servicemgrclient/.idea/python-servicemgrclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../servicemgr2.0/.idea/servicemgr2.0.iml" filepath="$PROJECT_DIR$/../../servicemgr2.0/.idea/servicemgr2.0.iml" />
+    </modules>
+  </component>
+</project>
